@@ -33,7 +33,7 @@
 		<curator-framework.version>4.2.0</curator-framework.version>
 		<commons-collections4.version>4.1</commons-collections4.version>
 		<luaj-jse.version>3.0.1</luaj-jse.version>
-		<xstream.version>1.4.11.1</xstream.version>
+		<xstream.version>1.4.17</xstream.version>
 		<webjars-locator.version>0.32</webjars-locator.version>
 		<webjars-jquery.version>3.3.1</webjars-jquery.version>
 		<webjars-bootstrap.version>4.2.1</webjars-bootstrap.version>
